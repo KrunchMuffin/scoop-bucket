@@ -1,4 +1,5 @@
 name: Excavator
+# Checks GitHub releases for new versions and commits updated manifests
 
 on:
   workflow_dispatch:
